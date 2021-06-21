@@ -1,0 +1,4 @@
+result_dict
+data/*
+__pycache__/*
+output/*
